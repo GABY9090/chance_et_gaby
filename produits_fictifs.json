@@ -1,0 +1,702 @@
+[
+    {
+      "nom": "Huile Essentielle 1",
+      "prix": 37.62,
+      "description": "Huile Essentielle 1 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_2.png"
+    },
+    {
+      "nom": "Crème Hydratante 2",
+      "prix": 84.69,
+      "description": "Crème Hydratante 2 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_3.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 3",
+      "prix": 55.52,
+      "description": "Rouge à Lèvres Rouge 3 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_4.png"
+    },
+    {
+      "nom": "Gel Douche 4",
+      "prix": 42.61,
+      "description": "Gel Douche 4 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_5.png"
+    },
+    {
+      "nom": "Shampooing Brillance 5",
+      "prix": 38.3,
+      "description": "Shampooing Brillance 5 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_6.png"
+    },
+    {
+      "nom": "Savon Naturel 6",
+      "prix": 98.82,
+      "description": "Savon Naturel 6 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_7.png"
+    },
+    {
+      "nom": "Poudre Fixante 7",
+      "prix": 41.09,
+      "description": "Poudre Fixante 7 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_8.png"
+    },
+    {
+      "nom": "Crème Solaire 8",
+      "prix": 92.78,
+      "description": "Crème Solaire 8 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_9.png"
+    },
+    {
+      "nom": "Vernis à Ongles 9",
+      "prix": 32.56,
+      "description": "Vernis à Ongles 9 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_10.png"
+    },
+    {
+      "nom": "Crème Solaire 10",
+      "prix": 36.7,
+      "description": "Crème Solaire 10 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_11.png"
+    },
+    {
+      "nom": "Mascara Volume 11",
+      "prix": 82.89,
+      "description": "Mascara Volume 11 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_12.png"
+    },
+    {
+      "nom": "Palette Yeux Glam 12",
+      "prix": 72.46,
+      "description": "Palette Yeux Glam 12 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_13.png"
+    },
+    {
+      "nom": "Palette Yeux Glam 13",
+      "prix": 24.87,
+      "description": "Palette Yeux Glam 13 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_14.png"
+    },
+    {
+      "nom": "Gel Douche 14",
+      "prix": 58.99,
+      "description": "Gel Douche 14 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_15.png"
+    },
+    {
+      "nom": "Crème Solaire 15",
+      "prix": 28.39,
+      "description": "Crème Solaire 15 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_16.png"
+    },
+    {
+      "nom": "Huile Essentielle 16",
+      "prix": 79.76,
+      "description": "Huile Essentielle 16 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_17.png"
+    },
+    {
+      "nom": "Huile Essentielle 17",
+      "prix": 96.47,
+      "description": "Huile Essentielle 17 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_18.png"
+    },
+    {
+      "nom": "Gel Douche 18",
+      "prix": 74.05,
+      "description": "Gel Douche 18 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_19.png"
+    },
+    {
+      "nom": "Savon Naturel 19",
+      "prix": 96.69,
+      "description": "Savon Naturel 19 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_20.png"
+    },
+    {
+      "nom": "Crème Solaire 20",
+      "prix": 5.36,
+      "description": "Crème Solaire 20 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_21.png"
+    },
+    {
+      "nom": "Shampooing Brillance 21",
+      "prix": 67.68,
+      "description": "Shampooing Brillance 21 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_22.png"
+    },
+    {
+      "nom": "Palette Yeux Glam 22",
+      "prix": 16.29,
+      "description": "Palette Yeux Glam 22 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_23.png"
+    },
+    {
+      "nom": "Démaquillant Doux 23",
+      "prix": 6.77,
+      "description": "Démaquillant Doux 23 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_24.png"
+    },
+    {
+      "nom": "Fond de Teint 24",
+      "prix": 52.34,
+      "description": "Fond de Teint 24 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_25.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 25",
+      "prix": 87.14,
+      "description": "Rouge à Lèvres Rouge 25 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_26.png"
+    },
+    {
+      "nom": "Crème Hydratante 26",
+      "prix": 32.24,
+      "description": "Crème Hydratante 26 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_27.png"
+    },
+    {
+      "nom": "Crème Solaire 27",
+      "prix": 80.88,
+      "description": "Crème Solaire 27 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_28.png"
+    },
+    {
+      "nom": "Crème Hydratante 28",
+      "prix": 22.29,
+      "description": "Crème Hydratante 28 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_29.png"
+    },
+    {
+      "nom": "Shampooing Brillance 29",
+      "prix": 51.07,
+      "description": "Shampooing Brillance 29 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_30.png"
+    },
+    {
+      "nom": "Fond de Teint 30",
+      "prix": 45.52,
+      "description": "Fond de Teint 30 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_1.png"
+    },
+    {
+      "nom": "Démaquillant Doux 31",
+      "prix": 99.71,
+      "description": "Démaquillant Doux 31 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_2.png"
+    },
+    {
+      "nom": "BB Cream 32",
+      "prix": 87.09,
+      "description": "BB Cream 32 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_3.png"
+    },
+    {
+      "nom": "Fond de Teint 33",
+      "prix": 27.64,
+      "description": "Fond de Teint 33 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_4.png"
+    },
+    {
+      "nom": "Crème Hydratante 34",
+      "prix": 57.89,
+      "description": "Crème Hydratante 34 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_5.png"
+    },
+    {
+      "nom": "Parfum Frais 35",
+      "prix": 63.89,
+      "description": "Parfum Frais 35 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_6.png"
+    },
+    {
+      "nom": "Anti-Cernes 36",
+      "prix": 40.34,
+      "description": "Anti-Cernes 36 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_7.png"
+    },
+    {
+      "nom": "Vernis à Ongles 37",
+      "prix": 69.05,
+      "description": "Vernis à Ongles 37 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_8.png"
+    },
+    {
+      "nom": "Vernis à Ongles 38",
+      "prix": 93.26,
+      "description": "Vernis à Ongles 38 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_9.png"
+    },
+    {
+      "nom": "Crème Hydratante 39",
+      "prix": 52.44,
+      "description": "Crème Hydratante 39 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_10.png"
+    },
+    {
+      "nom": "Sérum Éclat 40",
+      "prix": 96.35,
+      "description": "Sérum Éclat 40 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_11.png"
+    },
+    {
+      "nom": "Démaquillant Doux 41",
+      "prix": 32.47,
+      "description": "Démaquillant Doux 41 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_12.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 42",
+      "prix": 36.77,
+      "description": "Rouge à Lèvres Rouge 42 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_13.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 43",
+      "prix": 22.39,
+      "description": "Rouge à Lèvres Rouge 43 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_14.png"
+    },
+    {
+      "nom": "Mascara Volume 44",
+      "prix": 35.2,
+      "description": "Mascara Volume 44 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_15.png"
+    },
+    {
+      "nom": "Savon Naturel 45",
+      "prix": 13.86,
+      "description": "Savon Naturel 45 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_16.png"
+    },
+    {
+      "nom": "Fond de Teint 46",
+      "prix": 12.71,
+      "description": "Fond de Teint 46 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_17.png"
+    },
+    {
+      "nom": "BB Cream 47",
+      "prix": 87.98,
+      "description": "BB Cream 47 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_18.png"
+    },
+    {
+      "nom": "Shampooing Brillance 48",
+      "prix": 95.16,
+      "description": "Shampooing Brillance 48 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_19.png"
+    },
+    {
+      "nom": "Poudre Fixante 49",
+      "prix": 35.05,
+      "description": "Poudre Fixante 49 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_20.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 50",
+      "prix": 99.76,
+      "description": "Rouge à Lèvres Rouge 50 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_21.png"
+    },
+    {
+      "nom": "Sérum Éclat 51",
+      "prix": 75.3,
+      "description": "Sérum Éclat 51 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_22.png"
+    },
+    {
+      "nom": "Poudre Fixante 52",
+      "prix": 99.39,
+      "description": "Poudre Fixante 52 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_23.png"
+    },
+    {
+      "nom": "Savon Naturel 53",
+      "prix": 13.68,
+      "description": "Savon Naturel 53 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_24.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 54",
+      "prix": 80.96,
+      "description": "Rouge à Lèvres Rouge 54 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_25.png"
+    },
+    {
+      "nom": "Savon Naturel 55",
+      "prix": 88.85,
+      "description": "Savon Naturel 55 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_26.png"
+    },
+    {
+      "nom": "Crème Hydratante 56",
+      "prix": 48.67,
+      "description": "Crème Hydratante 56 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_27.png"
+    },
+    {
+      "nom": "Crème Hydratante 57",
+      "prix": 79.08,
+      "description": "Crème Hydratante 57 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_28.png"
+    },
+    {
+      "nom": "Crème Solaire 58",
+      "prix": 43.71,
+      "description": "Crème Solaire 58 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_29.png"
+    },
+    {
+      "nom": "Parfum Frais 59",
+      "prix": 18.03,
+      "description": "Parfum Frais 59 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_30.png"
+    },
+    {
+      "nom": "Shampooing Brillance 60",
+      "prix": 72.53,
+      "description": "Shampooing Brillance 60 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_1.png"
+    },
+    {
+      "nom": "Fond de Teint 61",
+      "prix": 53.87,
+      "description": "Fond de Teint 61 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_2.png"
+    },
+    {
+      "nom": "Parfum Frais 62",
+      "prix": 76.43,
+      "description": "Parfum Frais 62 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_3.png"
+    },
+    {
+      "nom": "Parfum Frais 63",
+      "prix": 46.43,
+      "description": "Parfum Frais 63 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_4.png"
+    },
+    {
+      "nom": "Eau de Toilette 64",
+      "prix": 46.33,
+      "description": "Eau de Toilette 64 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_5.png"
+    },
+    {
+      "nom": "BB Cream 65",
+      "prix": 80.11,
+      "description": "BB Cream 65 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_6.png"
+    },
+    {
+      "nom": "Crème Solaire 66",
+      "prix": 32.56,
+      "description": "Crème Solaire 66 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_7.png"
+    },
+    {
+      "nom": "Savon Naturel 67",
+      "prix": 43.12,
+      "description": "Savon Naturel 67 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_8.png"
+    },
+    {
+      "nom": "Vernis à Ongles 68",
+      "prix": 73.94,
+      "description": "Vernis à Ongles 68 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_9.png"
+    },
+    {
+      "nom": "Démaquillant Doux 69",
+      "prix": 18.1,
+      "description": "Démaquillant Doux 69 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_10.png"
+    },
+    {
+      "nom": "Palette Yeux Glam 70",
+      "prix": 44.07,
+      "description": "Palette Yeux Glam 70 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_11.png"
+    },
+    {
+      "nom": "Fond de Teint 71",
+      "prix": 52.42,
+      "description": "Fond de Teint 71 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_12.png"
+    },
+    {
+      "nom": "Sérum Éclat 72",
+      "prix": 12.93,
+      "description": "Sérum Éclat 72 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_13.png"
+    },
+    {
+      "nom": "BB Cream 73",
+      "prix": 81.06,
+      "description": "BB Cream 73 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_14.png"
+    },
+    {
+      "nom": "Shampooing Brillance 74",
+      "prix": 48.93,
+      "description": "Shampooing Brillance 74 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_15.png"
+    },
+    {
+      "nom": "Fond de Teint 75",
+      "prix": 67.2,
+      "description": "Fond de Teint 75 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_16.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 76",
+      "prix": 55.31,
+      "description": "Rouge à Lèvres Rouge 76 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_17.png"
+    },
+    {
+      "nom": "Lotion Corporelle 77",
+      "prix": 68.11,
+      "description": "Lotion Corporelle 77 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_18.png"
+    },
+    {
+      "nom": "Savon Naturel 78",
+      "prix": 91.25,
+      "description": "Savon Naturel 78 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_19.png"
+    },
+    {
+      "nom": "Démaquillant Doux 79",
+      "prix": 59.2,
+      "description": "Démaquillant Doux 79 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_20.png"
+    },
+    {
+      "nom": "Lotion Corporelle 80",
+      "prix": 22.45,
+      "description": "Lotion Corporelle 80 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_21.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 81",
+      "prix": 7.02,
+      "description": "Rouge à Lèvres Rouge 81 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_22.png"
+    },
+    {
+      "nom": "Lotion Corporelle 82",
+      "prix": 32.51,
+      "description": "Lotion Corporelle 82 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_23.png"
+    },
+    {
+      "nom": "Poudre Fixante 83",
+      "prix": 44.4,
+      "description": "Poudre Fixante 83 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_24.png"
+    },
+    {
+      "nom": "Démaquillant Doux 84",
+      "prix": 39.61,
+      "description": "Démaquillant Doux 84 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_25.png"
+    },
+    {
+      "nom": "Parfum Frais 85",
+      "prix": 89.1,
+      "description": "Parfum Frais 85 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_26.png"
+    },
+    {
+      "nom": "Savon Naturel 86",
+      "prix": 9.54,
+      "description": "Savon Naturel 86 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_27.png"
+    },
+    {
+      "nom": "Fond de Teint 87",
+      "prix": 57.84,
+      "description": "Fond de Teint 87 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_28.png"
+    },
+    {
+      "nom": "Gel Douche 88",
+      "prix": 55.64,
+      "description": "Gel Douche 88 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_29.png"
+    },
+    {
+      "nom": "Crème Hydratante 89",
+      "prix": 92.74,
+      "description": "Crème Hydratante 89 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_30.png"
+    },
+    {
+      "nom": "Sérum Éclat 90",
+      "prix": 97.5,
+      "description": "Sérum Éclat 90 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_1.png"
+    },
+    {
+      "nom": "Gel Douche 91",
+      "prix": 92.19,
+      "description": "Gel Douche 91 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_2.png"
+    },
+    {
+      "nom": "Fond de Teint 92",
+      "prix": 28.69,
+      "description": "Fond de Teint 92 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_3.png"
+    },
+    {
+      "nom": "Eau de Toilette 93",
+      "prix": 92.16,
+      "description": "Eau de Toilette 93 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_4.png"
+    },
+    {
+      "nom": "Lotion Corporelle 94",
+      "prix": 19.66,
+      "description": "Lotion Corporelle 94 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_5.png"
+    },
+    {
+      "nom": "BB Cream 95",
+      "prix": 43.96,
+      "description": "BB Cream 95 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_6.png"
+    },
+    {
+      "nom": "Rouge à Lèvres Rouge 96",
+      "prix": 61.73,
+      "description": "Rouge à Lèvres Rouge 96 est un produit de qualité pour votre quotidien.",
+      "categorie": "hygiène",
+      "image": "https://cdn.dummyjson.com/products/images/product_7.png"
+    },
+    {
+      "nom": "Mascara Volume 97",
+      "prix": 76.94,
+      "description": "Mascara Volume 97 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_8.png"
+    },
+    {
+      "nom": "Palette Yeux Glam 98",
+      "prix": 52.95,
+      "description": "Palette Yeux Glam 98 est un produit de qualité pour votre quotidien.",
+      "categorie": "parfum",
+      "image": "https://cdn.dummyjson.com/products/images/product_9.png"
+    },
+    {
+      "nom": "Crème Solaire 99",
+      "prix": 26.14,
+      "description": "Crème Solaire 99 est un produit de qualité pour votre quotidien.",
+      "categorie": "soin",
+      "image": "https://cdn.dummyjson.com/products/images/product_10.png"
+    },
+    {
+      "nom": "Lotion Corporelle 100",
+      "prix": 14.48,
+      "description": "Lotion Corporelle 100 est un produit de qualité pour votre quotidien.",
+      "categorie": "beauté",
+      "image": "https://cdn.dummyjson.com/products/images/product_11.png"
+    }
+  ]

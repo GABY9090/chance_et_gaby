@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)http://localhost/website/e-commerce/index.php?action=home -->
+<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>E-Commerce</title>
+  <link rel="stylesheet" href="./E-Commerce_files/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Mon E-commerce</title><style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            /* Ajout d'un arrière-plan subtil */
+            background-image: url('/image/logo.jpg'); /* Chemin modifié */
+            background-size: cover; /* Ajuste la taille de l'image pour couvrir tout l'arrière-plan */
+            background-repeat: no-repeat; /* Empêche la répétition de l'image */
+            background-attachment: fixed; /* L'arrière-plan reste fixe lors du défilement */
+        }
+
+        header {
+            background-color: rgba(51, 51, 51, 0.9); /* Ajout de transparence à l'arrière-plan de l'en-tête */
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Ombre légèrement plus marquée */
+            display: flex;
+            justify-content: space-around; /* Espacement entre le logo et la navigation */
+            align-items: center; /* Alignement vertical au centre */
+        }
+
+        .logo-container {
+            margin-left: 2em; /* Ajout de marge à gauche pour l'espace */
+        }
+
+        .logo {
+            max-height: 50px; /* Hauteur maximale pour le logo */
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+            /* Suppression de la marge car l'espace est géré par flex */
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 2em 0 0; /* Ajout de marge à droite */
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin: 0 1em;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        main.presentation {
+            padding: 2em;
+            background-color: rgba(255, 255, 255, 0.9); /* Ajout de transparence au fond du contenu principal */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 2em auto;
+            max-width: 900px;
+        }
+
+        main.presentation h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 1em;
+            font-size: 2.5em;
+        }
+
+        main.presentation h3 {
+            color: #555;
+            text-align: center;
+            margin-bottom: 1.5em;
+            font-style: italic;
+        }
+
+        main.presentation section {
+            margin-bottom: 2em;
+            padding: 1.5em;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        main.presentation section h4 {
+            color: #333;
+            margin-top: 0;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 0.5em;
+            margin-bottom: 0.8em;
+        }
+
+        main.presentation section p {
+            margin-bottom: 1em;
+        }
+
+        main.presentation section ul {
+            list-style: square;
+            padding-left: 1.5em;
+        }
+
+        main.presentation section ul li {
+            margin-bottom: 0.5em;
+        }
+
+        .image-container {
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1em;
+        }
+
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .image-container:hover img {
+            transform: scale(1.05);
+        }
+
+        main.presentation section:last-child {
+            text-align: center;
+        }
+
+        main.presentation section:last-child nav a {
+            display: inline-block;
+            background-color: #007bff;
+            color: #fff;
+            padding: 0.8em 1.5em;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 0 0.5em;
+            transition: background-color 0.3s ease;
+        }
+
+        main.presentation section:last-child nav a:hover {
+            background-color: #0056b3;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                align-items: center;
+                padding: 0.5em 0;
+            }
+
+            .logo-container {
+                margin: 0.5em 0;
+            }
+
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+                margin: 0;
+            }
+
+            nav li {
+                margin: 0.5em 0;
+            }
+
+            main.presentation {
+                padding: 1.5em;
+                margin: 1em;
+            }
+
+            main.presentation h1 {
+                font-size: 2em;
+            }
+
+            main.presentation section:last-child nav a {
+                display: block;
+                margin: 0.5em auto;
+                width: 80%;
+                text-align: center;
+            }
+        }
+    </style></head>
+
+
+
+
+    
+    
+    
+    
+
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="./E-Commerce_files/logo.png" alt="Logo de Mon E-commerce" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="http://localhost/website/e-commerce/index.php?action=home">Accueil</a></li>
+                <li><a href="http://localhost/website/e-commerce/index.php?action=connexion">Connexion</a></li>
+                <li><a href="http://localhost/website/e-commerce/index.php?action=inscription">Inscription</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="presentation">
+        <h1>Bienvenue sur la plateforme e-commerce - La Marketplace qui Connecte Vendeurs et Acheteurs !</h1>
+        <h3>Sur notre plateforme, tout le monde trouve sa place. Que vous soyez vendeur indépendant ou
+            acheteur à la recherche de bons produits, ce site est fait pour vous.<p></p>
+
+        <div class="image-container">
+            <img src="./E-Commerce_files/img-acc1.jpg" alt="Image d&#39;accueil 1">
+            <img src="./E-Commerce_files/img-acc1(1).jpg" alt="Image d&#39;accueil 1">
+        </div>
+
+        <section>
+            <h4>Vous êtes vendeur</h4>
+            <p>Créez facilement votre compte vendeur et commencez à :</p>
+            <ul>
+                <li>Mettre vos produits en ligne en quelques clics</li>
+                <li>Gérer votre boutique personnelle depuis votre tableau de bord</li>
+                <li>Suivre vos ventes en temps réel</li>
+                <li>Bénéficier d’une visibilité auprès d’une large communauté d’acheteurs</li>
+            </ul>
+        </section>
+
+        <div class="image-container">
+            <img src="./E-Commerce_files/img-acc2.jpg" alt="Image d&#39;accueil 2">
+        </div>
+
+        <section>
+            <h4>Vous êtes client</h4>
+            <p>Naviguez à travers une large sélection de produits proposés par nos vendeurs :</p>
+            <ul>
+                <li>Achetez en toute sécurité</li>
+                <li>Comparez les offres</li>
+                <li>Profitez de promotions exclusives</li>
+                <li>Suivez vos commandes depuis votre espace personnel</li>
+            </ul>
+        </section>
+
+        <div class="image-container">
+            <img src="./E-Commerce_files/img-acc3.jpg" alt="Image d&#39;accueil 3">
+        </div>
+
+        <section>
+            <h3>Rejoignez une communauté dynamique où la vente et l’achat se font simplement, rapidement et en toute confiance !</h3>
+            <h4>Créer un compte, vendre ou acheter n’a jamais été aussi simple.</h4>
+            <nav>
+                <a href="http://localhost/website/e-commerce/index.php?action=connexion">Connexion</a>
+                <a href="http://localhost/website/e-commerce/index.php?action=inscription">Inscription</a>
+            </nav>
+        </section>
+    </h3></main>
+
+</body></html>
